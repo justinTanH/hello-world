@@ -4,4 +4,9 @@ public Class Test{
     System.out.println("i dont believe on you!");
     System.out.println("success!");
   }
+  public static void test（）{
+    System.out.println("hello world!");
+    System.out.println("i dont believe on you!");
+    System.out.println("success!");
+  }
 }
